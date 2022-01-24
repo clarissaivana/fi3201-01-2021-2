@@ -20,7 +20,9 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 ### anwser 1
 Hasil kode di atas adalah
 ```
-
+Traceback (most recent call last):
+  File "<string>", line 10, in <module>
+NameError: name 'char' is not defined
 ```
 
 ## question 2
@@ -29,6 +31,14 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 ### anwser 2
 Hasil modifikasi kode di atas adalah
 ```
+1:◻
+0:
+2:◻◻
+1:◻
+9:◻◻◻◻◻◻◻◻◻
+0:
+5:◻◻◻◻◻
+1:◻
 ```
 
 ## question 3
@@ -37,6 +47,14 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 ### anwser 3
 Hasil modifikasi kode di atas adalah
 ```
+1:◼
+0:
+2:◼◼
+1:◼
+9:◼◼◼◼◼◼◼◼◼
+0:
+5:◼◼◼◼◼
+1:◼
 ```
 
 ## question 4
@@ -44,5 +62,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
++ mengartikan setiap digit pada NIM dengan kotak berwarna putih atau hitam
 + ..
