@@ -63,5 +63,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 ### answer 4
 Kode di atas berfungsi untuk
 + mengartikan setiap digit pada NIM dengan kotak berwarna putih atau hitam
-```
+
 Tested at https://www.programiz.com/python-programming/online-compiler/
