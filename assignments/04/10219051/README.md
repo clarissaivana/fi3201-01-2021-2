@@ -17,7 +17,7 @@ t=0.01*t
 y =np.sin(np.pi * (x-t))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](https://github.com/clarissaivana/fi3201-01-2021-2/blob/main/assignments/04/10219051/rambat%20kanan.gif)
 
 
 ## question 3
@@ -30,7 +30,7 @@ t=0.01*t
 y =np.sin(np.pi * (x+t))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](https://github.com/clarissaivana/fi3201-01-2021-2/blob/main/assignments/04/10219051/rambat%20kiri.gif)
 
 
 ## question 4
@@ -43,4 +43,4 @@ t = 0.01*t
 y = np.sin(np.pi * x) * np.cos(np.pi * t)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](https://github.com/clarissaivana/fi3201-01-2021-2/blob/main/assignments/04/10219051/stasioner.gif)
