@@ -13,6 +13,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(2 * np.pi * (x - 0.01 * i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right]()
@@ -24,6 +25,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(2 * np.pi * (x + 0.01 * i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
@@ -35,6 +37,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(2 * np.pi * x) * np.cos(2 * np.pi * 0.01 * i)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary]()
